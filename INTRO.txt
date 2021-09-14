@@ -1,0 +1,14 @@
+05/09/2021
+INTRODUCTION
+1)
+Here is a sample line of code that can be executed in Python: print("Hello, World!")
+ANS)-
+print("Hello, World!")
+
+2)
+QUOTES
+x = "pratish"
+# is the same as 
+x = 'pratish'
+ANS)-
+pratish pratish
